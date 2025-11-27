@@ -13,3 +13,6 @@ Custom KiCad PCB Footprint files available in profile.
 
 PCB also houses a Muon detector experiment circuit using the LT1807 OpAmp, Onsemi SIPM.
 Experiment inspiration and credit: Dr. Spencer Axani(https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2)
+
+<img width="556" height="683" alt="Screenshot 2025-06-13 004054" src="https://github.com/user-attachments/assets/fbdf5260-704d-4c78-908d-cdf3fd398cd4" />
+Fabrication credit: Elecrow PCB
